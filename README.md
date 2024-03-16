@@ -1,8 +1,4 @@
-Project demonstration is showed in the below YouTube Link 
 
-
-Clipchap link-
-https://clipchamp.com/watch/rCUU0Ub1a3j
 
 
 
