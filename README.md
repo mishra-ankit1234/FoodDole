@@ -1,12 +1,10 @@
 Project demonstration is showed in the below YouTube Link 
-Youtibe video link-
-https://youtu.be/s7hxytqKG_A
+
 
 Clipchap link-
 https://clipchamp.com/watch/rCUU0Ub1a3j
 
-Replit link-
-https://newbie.ankitagupta21.repl.co/
+
 
 Templates folder contains HTML files.
 Views folder contains EJS files.
