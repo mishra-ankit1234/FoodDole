@@ -321,4 +321,5 @@ if (port == null || port == "") {
 
 app.listen(port, function() {
   console.log("server is started successfully");
+  console.log("click to view http://localhost:3000/");
 });
